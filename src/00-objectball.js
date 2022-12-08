@@ -125,6 +125,7 @@ function gameObject() {
             }
         },
     }
+    
     return data
 }
 let object = gameObject()
